@@ -5,6 +5,7 @@ Welcome to the **LLM** repository! This project is a comprehensive, hands-on jou
 ## 📚 Project Overview
 
 In this project, I have worked on:
+- **Foundational Deep Learning & Mathematics:** NumPy vectorization, logistic regression as a single-layer neural network, and shallow multi-layer neural networks from scratch.
 - **Foundations of NLP:** Basic text processing, tokenization, and vectorization techniques.
 - **Embeddings:** Traditional and modern ways to represent words and documents in vector space.
 - **Transformer Architecture Deep Dive:** Positional encoding, attention mechanisms, and decoding strategies.
@@ -14,6 +15,13 @@ In this project, I have worked on:
 ---
 
 ## 📂 Repository Structure & Topics
+
+### 0. Foundational Deep Learning & Mathematics (`deep_learning_foundations`)
+This section covers the core mathematical foundations, vectorization techniques, and early neural network architectures that power modern machine learning and large language models.
+- **1-NumPy-Basics:** NumPy mathematics essentials for deep learning.
+- **2-Logistic-Regression-NN-Mindset:** Binary image classifier (cat vs. non-cat) built with a neural network mindset.
+- **3-Shallow-Neural-Networks:** 2-class planar data classifier with one hidden layer and non-linear activations.
+
 
 ### 1. NLP and Text Processing (`nlp_and_text_processing`)
 This section covers the fundamental building blocks of Natural Language Processing.
